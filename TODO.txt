@@ -1,7 +1,0 @@
-TODO:
-
-01- Fazer um texto que explique o que você precisa fazer para conseguir rodar o código;
-  01.a. Descrever nesse texto quais foram as libs utilizadas;
-02- Colocar links com as referências utilizadas;
-03.
-04.
